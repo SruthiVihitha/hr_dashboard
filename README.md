@@ -150,5 +150,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 mail to: sruthivihitha_potluri@srmap.edu.in
 
-Project Link: 
+Project Link: https://github.com/SruthiVihitha/hr_dashboard.git
 
