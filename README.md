@@ -1,17 +1,20 @@
 # HR Performance Dashboard - README
 
 
-https://github.com/user-attachments/assets/6c10d355-70f1-4bef-8528-6a5cbe26f8cd
+
+https://github.com/user-attachments/assets/4324e43d-b8df-485b-a318-7b73e81df56d
+
+
 ![Screenshot 2025-05-27 155351](https://github.com/user-attachments/assets/e8d644b9-cd88-4b9b-b1df-e2fbf86c247e)
 
 
 ![Screenshot 2025-05-27 155620](https://github.com/user-attachments/assets/2c52f50f-b613-48c0-8c9f-7aa24c7d3454)
 ![Screenshot 2025-05-27 155517](https://github.com/user-attachments/assets/492d7a43-2e3b-4e1b-af4a-4e703bdf573c)
-![Screenshot 2025-05-27 155528](https://github.com/user-attachments/assets/c229165c-734e-41c5-ad3d-
+![Screenshot 2025-05-27 155528](https://github.com/user-attachments/assets/c229165c-734e-41c5-ad3d-2b0ba4d22f1e)
 ![Screenshot 2025-05-27 154506](https://github.com/user-attachments/assets/9869e864-6f72-4c11-a9d4-cb58443922e0)
-2b0ba
+
 ![Screenshot 2025-05-27 154451](https://github.com/user-attachments/assets/010d29cf-7cb6-44b4-a6ba-6939150e0a8d)
-4d22f1e)
+
 
 
 ## 📝 Overview
