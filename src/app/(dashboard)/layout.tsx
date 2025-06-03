@@ -1,12 +1,13 @@
-// app/layout.tsx
-export default function RootLayout({
+// app/(dashboard)/layout.tsx
+export default function DashboardLayout({
   children,
 }: {
   children: React.ReactNode
 }) {
   return (
-    <html lang="en">
-      <body>{children}</body>
-    </html>
+    <div className="dashboard-layout">
+      {/* Add any dashboard-specific layout components here */}
+      {children}
+    </div>
   )
 }
